@@ -1,5 +1,3 @@
-# Wikipedia-Events-Search
-
 Python application for quering events data from Wikipadia collection of pages about the days of the year.
 
 The data is stored using MongoDB, indexed by day, year and category and is refreshed at 2 hours interval.
